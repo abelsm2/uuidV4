@@ -35,8 +35,6 @@
 #ifndef uuidV4_h
 #define uuidV4_h
 
-#include "Particle.h"
-
 namespace uuid {
 
 	/**
